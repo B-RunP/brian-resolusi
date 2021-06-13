@@ -2,9 +2,8 @@ Rencana hidup Brian
 - Punya uang banyak
   * beli yoyo
   * beli leptop
-   ^ laptop ROG
-   ^ laptop apple
-- hidup tanpa beban
+   ^ ROG
+   ^ apple
 - Punya rumah mewah
  * 2 tingkat 
 - Tidak sombong
